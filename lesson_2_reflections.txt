@@ -21,3 +21,7 @@ It allows you to find unreachble commits
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Because
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+You tell me
